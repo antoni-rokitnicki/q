@@ -1,4 +1,8 @@
-# code-with-quarkus project
+# quarkus project
+
+start url:
+http://127.0.0.1:8080/
+
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
